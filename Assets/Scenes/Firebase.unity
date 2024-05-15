@@ -975,7 +975,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Nas\u0131l kullan\u0131l\u0131r?\n\nProjenin FirebaseConsole URL adresi
+  m_Text: "Nas\u0131l kullan\u0131l\u0131r?\n\nProjenin FirebaseDatabase URL adresi
     inspectore yaz\u0131l\u0131r\n\nHangi kullan\u0131c\u0131 i\xE7in i\u015Flem
     yap\u0131lacaksa o kullan\u0131c\u0131n\u0131n userID de\u011Feri firebase objesinin
     i\xE7ine yaz\u0131l\u0131r\n\nDi\u011Fer veriler de hemen alt\u0131na yaz\u0131l\u0131r
@@ -995,6 +995,6 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 1717197152}
-  - {fileID: 395911396}
   - {fileID: 1150586543}
   - {fileID: 835400590}
+  - {fileID: 395911396}
