@@ -1,11 +1,10 @@
-Herkese Merhaba
-Bu Unity projesinin içinde gerekli Firebase paketleri mevcuttur
-Siz de bu sistemi kullanmak için öncelikle Firebase Console sitesinden uygulama oluşturup kendi projeniz ile gerekli bağlantıları kurmanız gerekir
-Projenize Gerekli Firebase paketlerini de import ettikten sonra projenizin Firebaseatabase URL adresini koda entegre ederek kullanabilirsiniz
+Bu Unity projesinin içinde gerekli Firebase paketleri mevcuttur.
+Siz de bu sistemi kullanmak için öncelikle Firebase Console sitesinden uygulama oluşturup kendi projeniz ile gerekli bağlantıları kurmanız gerekir.
+Projenize Gerekli Firebase paketlerini de import ettikten sonra projenizin Firebaseatabase URL adresini koda entegre ederek kullanabilirsiniz.
 
-Aşağıdaki görselde bulunan userID her yeni kullanıcı için özel oluşturmanız gereken bir id numarasıdır
-Database URL ise Firebase'in size verdiği Datebase adresidir bu adres ile Database ve Unity bağlantısı gerçekleşir
-Dts class'ı ise tutmak istediğiniz verileri temsil eder istediğiniz eklemeyi yapabilirsiniz
+Aşağıdaki görselde bulunan userID her yeni kullanıcı için özel oluşturmanız gereken bir id numarasıdır.
+Database URL ise Firebase'in size verdiği Datebase adresidir bu adres ile Database ve Unity bağlantısı gerçekleşir.
+Dts class'ı ise tutmak istediğiniz verileri temsil eder istediğiniz eklemeyi yapabilirsiniz.
 
 ![Ekran Görüntüsü (82)](https://github.com/Florianus04/UnityFirebaseConnect/assets/101597266/8ad97082-0643-42a0-81ba-f999364ca8fa)
 
@@ -18,6 +17,6 @@ Kullanım :
 - Veri güncellemek için LoadData butonuna basıp kullanıcı verilerini çekin, istediğiniz veriye yeni bir değer girin ve SaveData butonuna basın
 - Sizin girmiş olduğunuz veriler veritabanında güncellenmiş olur
 
-İyi çalışmalar
+İyi çalışmalar.
 
 ![Ekran Görüntüsü (79)](https://github.com/Florianus04/UnityFirebaseConnect/assets/101597266/5fee7fa1-6334-4177-b159-d447df74ff17)
